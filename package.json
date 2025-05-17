@@ -1,7 +1,7 @@
 {
-  "name": "Bmw-PairCode",
+  "name": "khaos-PairCode",
   "version": "1.0.0",
-  "description": "Connect Whatsapp With Baileys Code Pairing",
+  "description": "Connect Whatsapp With Bryan Code Pairing",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devibraah/ibraah-tech-2.git"
+    "url": "git+https://github.com/Bryanlover1/KHAOS-XMD"
   },
-  "author": "devibraah",
+  "author": "𝖎 𝖆𝖒 𝖐𝖍𝖆𝖔𝖘",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
